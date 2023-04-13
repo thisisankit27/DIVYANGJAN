@@ -1,0 +1,520 @@
+id,state,disabilityType,schemeName,benefitCriteria,typesOfBenefit
+1,Uttar Pradesh,Locomotor Disability,Age Relaxation for Motorized Tricycle ADIP Scheme,40% Disability,Misc Benefits
+2,Uttar Pradesh,Intellectual Disability,Niramaya,40% Disability,Financial Assistance
+3,Uttar Pradesh,Blindness,Nishashkt Vivah,60% Disability,Allowances
+4,Uttar Pradesh,Locomotor Disability,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Subsidy
+5,Uttar Pradesh,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+6,Uttar Pradesh,Muscular Dystrophy,Maintenance Allowance to Muscular Dystrophy people,40% Disability,Allowances
+7,Uttar Pradesh,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+8,Uttar Pradesh,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+9,Uttar Pradesh,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+10,Uttar Pradesh,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+11,Uttar Pradesh,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+12,Uttar Pradesh,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+13,Uttar Pradesh,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+14,Uttar Pradesh,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+15,Uttar Pradesh,Intellectual Disability,Three Day Care centres in Theni for MR Children,40% Disability,Misc Benefits
+16,Uttar Pradesh,Intellectual Disability,Maintenance Allowance to MR with 45 percentage,Special Benefit,Allowances
+17,Uttar Pradesh,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+18,Uttar Pradesh,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
+19,Uttar Pradesh,Intellectual Disability,Homes for the MR above the age of Fourteen,40% Disability,Misc Benefits
+20,Uttarakhand,Muscular Dystrophy,Maintenance Allowance to Muscular Dystrophy people,40% Disability,Allowances
+21,Uttarakhand,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+22,Uttarakhand,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+23,Uttarakhand,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+24,Uttarakhand,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+25,Uttarakhand,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+26,Uttarakhand,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+27,Uttarakhand,Locomotor Disability,Assistance to persons marrying Locomotor DAP,40% Disability,Financial Assistance
+28,Uttarakhand,Blindness,Cash Incentive to prevent drop outs from school,40% Disability,Education Benefit
+29,Uttarakhand,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
+30,Uttarakhand,Intellectual Disability,Homes for the MR above the age of Fourteen,40% Disability,Misc Benefits
+31,Uttarakhand,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+32,Uttarakhand,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+33,Uttarakhand,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+34,Uttarakhand,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+35,Uttarakhand,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+36,Uttarakhand,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+37,Uttarakhand,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+38,Uttarakhand,Intellectual Disability,Three Day Care centres in Theni for MR Children,40% Disability,Misc Benefits
+39,Uttarakhand,Intellectual Disability,Maintenance Allowance to MR with 45 percentage,Special Benefit,Allowances
+40,Tripura,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+41,Tripura,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+42,Tripura,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+43,Tripura,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+44,Tripura,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+45,Tripura,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+46,Tripura,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+47,Tripura,Hearing Impairment,Early Intervention Centres for Hearing Impaired,Special Benefit,Misc Benefits
+48,Tripura,Blindness,Assistance to persons marrying Visually Impaired,40% Disability,Financial Assistance
+49,Tripura,Hearing Impairment,Assistance to marrying Speech and hearing impaired,40% Disability,Financial Assistance
+50,Tripura,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+51,Tripura,Blindness,Cash Prizes to top 3 Rank Holders in Public Exams,40% Disability,Education Benefit
+52,Tripura,Hearing Impairment,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Allowances
+53,Tripura,Hearing Impairment,Multimedia Training,40% Disability,Trainings
+54,Tripura,Locomotor Disability,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Allowances
+55,Tripura,Hearing Impairment,Assistance to marrying Speech and hearing impaired,40% Disability,Financial Assistance
+56,Tripura,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+57,Tripura,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+58,Tripura,Cerebral Palsy,Early Intervention Centres for Cerebral Palsy,Special Benefit,Misc Benefits
+59,Tripura,Leprosy cured,Government Rehabilitation Homes for Leprosy Cured,40% Disability,Misc Benefits
+60,Telangana,Autism Spectrum Disorder,Early Intervention Center for children with Autism,Special Benefit,Misc Benefits
+61,Telangana,Blindness,Assistance to persons marrying Visually Impaired,40% Disability,Financial Assistance
+62,Telangana,Mental Illness,Rescue Scheme,40% Disability,Misc Benefits
+63,Telangana,Blindness,Readers Allowance to Students from Ninth to PG,40% Disability,Education Benefit
+64,Telangana,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+65,Telangana,Mental Illness,Home for Mentally Ill Persons,40% Disability,Misc Benefits
+66,Telangana,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+67,Telangana,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+68,Telangana,Blindness,Cash Incentive to prevent drop outs from school,40% Disability,Education Benefit
+69,Telangana,Locomotor Disability,Assistance to persons marrying Locomotor DAP,40% Disability,Financial Assistance
+70,Telangana,Blindness,Training in Book Binding,40% Disability,Trainings
+71,Telangana,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
+72,Telangana,Intellectual Disability,Homes for the MR above the age of Fourteen,40% Disability,Misc Benefits
+73,Telangana,Locomotor Disability,Age Relaxation for Motorized Tricycle ADIP Scheme,40% Disability,Misc Benefits
+74,Telangana,Intellectual Disability,Niramaya,40% Disability,Financial Assistance
+75,Telangana,Blindness,Nishashkt Vivah,60% Disability,Allowances
+76,Telangana,Locomotor Disability,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Subsidy
+77,Telangana,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+78,Telangana,Muscular Dystrophy,Maintenance Allowance to Muscular Dystrophy people,40% Disability,Allowances
+79,Telangana,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+80,Tamil Nadu,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+81,Tamil Nadu,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+82,Tamil Nadu,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+83,Tamil Nadu,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+84,Tamil Nadu,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+85,Tamil Nadu,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+86,Tamil Nadu,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+87,Tamil Nadu,Intellectual Disability,Three Day Care centres in Theni for MR Children,40% Disability,Misc Benefits
+88,Tamil Nadu,Intellectual Disability,Maintenance Allowance to MR with 45 percentage,Special Benefit,Allowances
+89,Tamil Nadu,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+90,Tamil Nadu,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
+91,Tamil Nadu,Intellectual Disability,Homes for the MR above the age of Fourteen,40% Disability,Misc Benefits
+92,Tamil Nadu,Muscular Dystrophy,Maintenance Allowance to Muscular Dystrophy people,40% Disability,Allowances
+93,Tamil Nadu,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+94,Tamil Nadu,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+95,Tamil Nadu,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+96,Tamil Nadu,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+97,Tamil Nadu,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+98,Tamil Nadu,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+99,Tamil Nadu,Locomotor Disability,Assistance to persons marrying Locomotor DAP,40% Disability,Financial Assistance
+100,Sikkim,Blindness,Cash Incentive to prevent drop outs from school,40% Disability,Education Benefit
+101,Sikkim,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
+102,Sikkim,Intellectual Disability,Homes for the MR above the age of Fourteen,40% Disability,Misc Benefits
+103,Sikkim,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+104,Sikkim,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+105,Sikkim,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+106,Sikkim,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+107,Sikkim,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+108,Sikkim,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+109,Sikkim,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+110,Sikkim,Intellectual Disability,Three Day Care centres in Theni for MR Children,40% Disability,Misc Benefits
+111,Sikkim,Intellectual Disability,Maintenance Allowance to MR with 45 percentage,Special Benefit,Allowances
+112,Sikkim,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+113,Sikkim,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+114,Sikkim,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+115,Sikkim,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+116,Sikkim,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+117,Sikkim,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+118,Sikkim,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+119,Sikkim,Hearing Impairment,Early Intervention Centres for Hearing Impaired,Special Benefit,Misc Benefits
+120,Rajasthan,Blindness,Assistance to persons marrying Visually Impaired,40% Disability,Financial Assistance
+121,Rajasthan,Hearing Impairment,Assistance to marrying Speech and hearing impaired,40% Disability,Financial Assistance
+122,Rajasthan,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+123,Rajasthan,Blindness,Cash Prizes to top 3 Rank Holders in Public Exams,40% Disability,Education Benefit
+124,Rajasthan,Hearing Impairment,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Allowances
+125,Rajasthan,Hearing Impairment,Multimedia Training,40% Disability,Trainings
+126,Rajasthan,Locomotor Disability,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Allowances
+127,Rajasthan,Hearing Impairment,Assistance to marrying Speech and hearing impaired,40% Disability,Financial Assistance
+128,Rajasthan,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+129,Rajasthan,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+130,Rajasthan,Cerebral Palsy,Early Intervention Centres for Cerebral Palsy,Special Benefit,Misc Benefits
+131,Rajasthan,Leprosy cured,Government Rehabilitation Homes for Leprosy Cured,40% Disability,Misc Benefits
+132,Rajasthan,Autism Spectrum Disorder,Early Intervention Center for children with Autism,Special Benefit,Misc Benefits
+133,Rajasthan,Blindness,Assistance to persons marrying Visually Impaired,40% Disability,Financial Assistance
+134,Rajasthan,Mental Illness,Rescue Scheme,40% Disability,Misc Benefits
+135,Rajasthan,Blindness,Readers Allowance to Students from Ninth to PG,40% Disability,Education Benefit
+136,Rajasthan,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+137,Rajasthan,Mental Illness,Home for Mentally Ill Persons,40% Disability,Misc Benefits
+138,Rajasthan,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+139,Rajasthan,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+140,Punjab,Locomotor Disability,Age Relaxation for Motorized Tricycle ADIP Scheme,40% Disability,Misc Benefits
+141,Punjab,Intellectual Disability,Niramaya,40% Disability,Financial Assistance
+142,Punjab,Blindness,Nishashkt Vivah,60% Disability,Allowances
+143,Punjab,Locomotor Disability,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Subsidy
+144,Punjab,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+145,Punjab,Muscular Dystrophy,Maintenance Allowance to Muscular Dystrophy people,40% Disability,Allowances
+146,Punjab,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+147,Punjab,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+148,Punjab,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+149,Punjab,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+150,Punjab,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+151,Punjab,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+152,Punjab,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+153,Punjab,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+154,Punjab,Intellectual Disability,Three Day Care centres in Theni for MR Children,40% Disability,Misc Benefits
+155,Punjab,Intellectual Disability,Maintenance Allowance to MR with 45 percentage,Special Benefit,Allowances
+156,Punjab,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+157,Punjab,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
+158,Punjab,Intellectual Disability,Homes for the MR above the age of Fourteen,40% Disability,Misc Benefits
+159,Punjab,Muscular Dystrophy,Maintenance Allowance to Muscular Dystrophy people,40% Disability,Allowances
+160,Odisha,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+161,Odisha,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+162,Odisha,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+163,Odisha,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+164,Odisha,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+165,Odisha,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+166,Odisha,Locomotor Disability,Assistance to persons marrying Locomotor DAP,40% Disability,Financial Assistance
+167,Odisha,Blindness,Cash Incentive to prevent drop outs from school,40% Disability,Education Benefit
+168,Odisha,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
+169,Odisha,Intellectual Disability,Homes for the MR above the age of Fourteen,40% Disability,Misc Benefits
+170,Odisha,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+171,Odisha,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+172,Odisha,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+173,Odisha,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+174,Odisha,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+175,Odisha,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+176,Odisha,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+177,Odisha,Intellectual Disability,Three Day Care centres in Theni for MR Children,40% Disability,Misc Benefits
+178,Odisha,Intellectual Disability,Maintenance Allowance to MR with 45 percentage,Special Benefit,Allowances
+179,Odisha,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+180,Nagaland,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+181,Nagaland,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+182,Nagaland,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+183,Nagaland,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+184,Nagaland,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+185,Nagaland,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+186,Nagaland,Hearing Impairment,Early Intervention Centres for Hearing Impaired,Special Benefit,Misc Benefits
+187,Nagaland,Blindness,Assistance to persons marrying Visually Impaired,40% Disability,Financial Assistance
+188,Nagaland,Hearing Impairment,Assistance to marrying Speech and hearing impaired,40% Disability,Financial Assistance
+189,Nagaland,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+190,Nagaland,Blindness,Cash Prizes to top 3 Rank Holders in Public Exams,40% Disability,Education Benefit
+191,Nagaland,Hearing Impairment,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Allowances
+192,Nagaland,Hearing Impairment,Multimedia Training,40% Disability,Trainings
+193,Nagaland,Locomotor Disability,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Allowances
+194,Nagaland,Hearing Impairment,Assistance to marrying Speech and hearing impaired,40% Disability,Financial Assistance
+195,Nagaland,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+196,Nagaland,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+197,Nagaland,Cerebral Palsy,Early Intervention Centres for Cerebral Palsy,Special Benefit,Misc Benefits
+198,Nagaland,Leprosy cured,Government Rehabilitation Homes for Leprosy Cured,40% Disability,Misc Benefits
+199,Nagaland,Autism Spectrum Disorder,Early Intervention Center for children with Autism,Special Benefit,Misc Benefits
+200,Mizoram,Blindness,Assistance to persons marrying Visually Impaired,40% Disability,Financial Assistance
+201,Mizoram,Mental Illness,Rescue Scheme,40% Disability,Misc Benefits
+202,Mizoram,Blindness,Readers Allowance to Students from Ninth to PG,40% Disability,Education Benefit
+203,Mizoram,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+204,Mizoram,Mental Illness,Home for Mentally Ill Persons,40% Disability,Misc Benefits
+205,Mizoram,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+206,Mizoram,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+207,Mizoram,Blindness,Cash Incentive to prevent drop outs from school,40% Disability,Education Benefit
+208,Mizoram,Locomotor Disability,Assistance to persons marrying Locomotor DAP,40% Disability,Financial Assistance
+209,Mizoram,Blindness,Training in Book Binding,40% Disability,Trainings
+210,Mizoram,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
+211,Mizoram,Intellectual Disability,Homes for the MR above the age of Fourteen,40% Disability,Misc Benefits
+212,Mizoram,Locomotor Disability,Age Relaxation for Motorized Tricycle ADIP Scheme,40% Disability,Misc Benefits
+213,Mizoram,Intellectual Disability,Niramaya,40% Disability,Financial Assistance
+214,Mizoram,Blindness,Nishashkt Vivah,60% Disability,Allowances
+215,Mizoram,Locomotor Disability,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Subsidy
+216,Mizoram,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+217,Mizoram,Muscular Dystrophy,Maintenance Allowance to Muscular Dystrophy people,40% Disability,Allowances
+218,Mizoram,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+219,Mizoram,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+220,Meghalaya,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+221,Meghalaya,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+222,Meghalaya,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+223,Meghalaya,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+224,Meghalaya,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+225,Meghalaya,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+226,Meghalaya,Intellectual Disability,Three Day Care centres in Theni for MR Children,40% Disability,Misc Benefits
+227,Meghalaya,Intellectual Disability,Maintenance Allowance to MR with 45 percentage,Special Benefit,Allowances
+228,Meghalaya,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+229,Meghalaya,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
+230,Meghalaya,Intellectual Disability,Homes for the MR above the age of Fourteen,40% Disability,Misc Benefits
+231,Meghalaya,Muscular Dystrophy,Maintenance Allowance to Muscular Dystrophy people,40% Disability,Allowances
+232,Meghalaya,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+233,Meghalaya,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+234,Meghalaya,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+235,Meghalaya,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+236,Meghalaya,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+237,Meghalaya,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+238,Meghalaya,Locomotor Disability,Assistance to persons marrying Locomotor DAP,40% Disability,Financial Assistance
+239,Meghalaya,Blindness,Cash Incentive to prevent drop outs from school,40% Disability,Education Benefit
+240,Manipur,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
+241,Manipur,Intellectual Disability,Homes for the MR above the age of Fourteen,40% Disability,Misc Benefits
+242,Manipur,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+243,Manipur,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+244,Manipur,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+245,Manipur,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+246,Manipur,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+247,Manipur,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+248,Manipur,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+249,Manipur,Intellectual Disability,Three Day Care centres in Theni for MR Children,40% Disability,Misc Benefits
+250,Manipur,Intellectual Disability,Maintenance Allowance to MR with 45 percentage,Special Benefit,Allowances
+251,Manipur,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+252,Manipur,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+253,Manipur,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+254,Manipur,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+255,Manipur,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+256,Manipur,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+257,Manipur,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+258,Manipur,Hearing Impairment,Early Intervention Centres for Hearing Impaired,Special Benefit,Misc Benefits
+259,Manipur,Blindness,Assistance to persons marrying Visually Impaired,40% Disability,Financial Assistance
+260,Maharashtra,Hearing Impairment,Assistance to marrying Speech and hearing impaired,40% Disability,Financial Assistance
+261,Maharashtra,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+262,Maharashtra,Blindness,Cash Prizes to top 3 Rank Holders in Public Exams,40% Disability,Education Benefit
+263,Maharashtra,Hearing Impairment,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Allowances
+264,Maharashtra,Hearing Impairment,Multimedia Training,40% Disability,Trainings
+265,Maharashtra,Locomotor Disability,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Allowances
+266,Maharashtra,Hearing Impairment,Assistance to marrying Speech and hearing impaired,40% Disability,Financial Assistance
+267,Maharashtra,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+268,Maharashtra,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+269,Maharashtra,Cerebral Palsy,Early Intervention Centres for Cerebral Palsy,Special Benefit,Misc Benefits
+270,Maharashtra,Leprosy cured,Government Rehabilitation Homes for Leprosy Cured,40% Disability,Misc Benefits
+271,Maharashtra,Autism Spectrum Disorder,Early Intervention Center for children with Autism,Special Benefit,Misc Benefits
+272,Maharashtra,Blindness,Assistance to persons marrying Visually Impaired,40% Disability,Financial Assistance
+273,Maharashtra,Mental Illness,Rescue Scheme,40% Disability,Misc Benefits
+274,Maharashtra,Blindness,Readers Allowance to Students from Ninth to PG,40% Disability,Education Benefit
+275,Maharashtra,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+276,Maharashtra,Mental Illness,Home for Mentally Ill Persons,40% Disability,Misc Benefits
+277,Maharashtra,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+278,Maharashtra,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+279,Maharashtra,Intellectual Disability,Three Day Care centres in Theni for MR Children,40% Disability,Misc Benefits
+280,Madhya Pradesh,Locomotor Disability,Age Relaxation for Motorized Tricycle ADIP Scheme,40% Disability,Misc Benefits
+281,Madhya Pradesh,Intellectual Disability,Niramaya,40% Disability,Financial Assistance
+282,Madhya Pradesh,Blindness,Nishashkt Vivah,60% Disability,Allowances
+283,Madhya Pradesh,Locomotor Disability,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Subsidy
+284,Madhya Pradesh,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+285,Madhya Pradesh,Muscular Dystrophy,Maintenance Allowance to Muscular Dystrophy people,40% Disability,Allowances
+286,Madhya Pradesh,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+287,Madhya Pradesh,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+288,Madhya Pradesh,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+289,Madhya Pradesh,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+290,Madhya Pradesh,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+291,Madhya Pradesh,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+292,Madhya Pradesh,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+293,Madhya Pradesh,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+294,Madhya Pradesh,Intellectual Disability,Three Day Care centres in Theni for MR Children,40% Disability,Misc Benefits
+295,Madhya Pradesh,Intellectual Disability,Maintenance Allowance to MR with 45 percentage,Special Benefit,Allowances
+296,Madhya Pradesh,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+297,Madhya Pradesh,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
+298,Madhya Pradesh,Intellectual Disability,Homes for the MR above the age of Fourteen,40% Disability,Misc Benefits
+299,Madhya Pradesh,Muscular Dystrophy,Maintenance Allowance to Muscular Dystrophy people,40% Disability,Allowances
+300,Kerala,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+301,Kerala,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+302,Kerala,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+303,Kerala,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+304,Kerala,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+305,Kerala,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+306,Kerala,Locomotor Disability,Assistance to persons marrying Locomotor DAP,40% Disability,Financial Assistance
+307,Kerala,Blindness,Cash Incentive to prevent drop outs from school,40% Disability,Education Benefit
+308,Kerala,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
+309,Kerala,Intellectual Disability,Homes for the MR above the age of Fourteen,40% Disability,Misc Benefits
+310,Kerala,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+311,Kerala,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+312,Kerala,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+313,Kerala,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+314,Kerala,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+315,Kerala,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+316,Kerala,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+317,Kerala,Intellectual Disability,Three Day Care centres in Theni for MR Children,40% Disability,Misc Benefits
+318,Kerala,Intellectual Disability,Maintenance Allowance to MR with 45 percentage,Special Benefit,Allowances
+319,Kerala,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+320,Karnataka,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+321,Karnataka,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+322,Karnataka,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+323,Karnataka,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+324,Karnataka,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+325,Karnataka,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+326,Karnataka,Hearing Impairment,Early Intervention Centres for Hearing Impaired,Special Benefit,Misc Benefits
+327,Karnataka,Blindness,Assistance to persons marrying Visually Impaired,40% Disability,Financial Assistance
+328,Karnataka,Hearing Impairment,Assistance to marrying Speech and hearing impaired,40% Disability,Financial Assistance
+329,Karnataka,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+330,Karnataka,Blindness,Cash Prizes to top 3 Rank Holders in Public Exams,40% Disability,Education Benefit
+331,Karnataka,Hearing Impairment,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Allowances
+332,Karnataka,Hearing Impairment,Multimedia Training,40% Disability,Trainings
+333,Karnataka,Locomotor Disability,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Allowances
+334,Karnataka,Hearing Impairment,Assistance to marrying Speech and hearing impaired,40% Disability,Financial Assistance
+335,Karnataka,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+336,Karnataka,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+337,Karnataka,Cerebral Palsy,Early Intervention Centres for Cerebral Palsy,Special Benefit,Misc Benefits
+338,Karnataka,Leprosy cured,Government Rehabilitation Homes for Leprosy Cured,40% Disability,Misc Benefits
+339,Karnataka,Autism Spectrum Disorder,Early Intervention Center for children with Autism,Special Benefit,Misc Benefits
+340,Jharkhand,Blindness,Assistance to persons marrying Visually Impaired,40% Disability,Financial Assistance
+341,Jharkhand,Mental Illness,Rescue Scheme,40% Disability,Misc Benefits
+342,Jharkhand,Blindness,Readers Allowance to Students from Ninth to PG,40% Disability,Education Benefit
+343,Jharkhand,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+344,Jharkhand,Mental Illness,Home for Mentally Ill Persons,40% Disability,Misc Benefits
+345,Jharkhand,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+346,Jharkhand,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+347,Jharkhand,Blindness,Cash Incentive to prevent drop outs from school,40% Disability,Education Benefit
+348,Jharkhand,Locomotor Disability,Assistance to persons marrying Locomotor DAP,40% Disability,Financial Assistance
+349,Jharkhand,Blindness,Training in Book Binding,40% Disability,Trainings
+350,Jharkhand,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
+351,Jharkhand,Intellectual Disability,Homes for the MR above the age of Fourteen,40% Disability,Misc Benefits
+352,Jharkhand,Locomotor Disability,Age Relaxation for Motorized Tricycle ADIP Scheme,40% Disability,Misc Benefits
+353,Jharkhand,Intellectual Disability,Niramaya,40% Disability,Financial Assistance
+354,Jharkhand,Blindness,Nishashkt Vivah,60% Disability,Allowances
+355,Jharkhand,Locomotor Disability,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Subsidy
+356,Jharkhand,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+357,Jharkhand,Muscular Dystrophy,Maintenance Allowance to Muscular Dystrophy people,40% Disability,Allowances
+358,Jharkhand,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+359,Jharkhand,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+360,Himachal Pradesh,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+361,Himachal Pradesh,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+362,Himachal Pradesh,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+363,Himachal Pradesh,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+364,Himachal Pradesh,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+365,Himachal Pradesh,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+366,Himachal Pradesh,Intellectual Disability,Three Day Care centres in Theni for MR Children,40% Disability,Misc Benefits
+367,Himachal Pradesh,Intellectual Disability,Maintenance Allowance to MR with 45 percentage,Special Benefit,Allowances
+368,Himachal Pradesh,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+369,Himachal Pradesh,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
+370,Himachal Pradesh,Intellectual Disability,Homes for the MR above the age of Fourteen,40% Disability,Misc Benefits
+371,Himachal Pradesh,Muscular Dystrophy,Maintenance Allowance to Muscular Dystrophy people,40% Disability,Allowances
+372,Himachal Pradesh,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+373,Himachal Pradesh,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+374,Himachal Pradesh,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+375,Himachal Pradesh,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+376,Himachal Pradesh,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+377,Himachal Pradesh,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+378,Himachal Pradesh,Locomotor Disability,Assistance to persons marrying Locomotor DAP,40% Disability,Financial Assistance
+379,Himachal Pradesh,Blindness,Cash Incentive to prevent drop outs from school,40% Disability,Education Benefit
+380,Haryana,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
+381,Haryana,Intellectual Disability,Homes for the MR above the age of Fourteen,40% Disability,Misc Benefits
+382,Haryana,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+383,Haryana,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+384,Haryana,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+385,Haryana,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+386,Haryana,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+387,Haryana,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+388,Haryana,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+389,Haryana,Intellectual Disability,Three Day Care centres in Theni for MR Children,40% Disability,Misc Benefits
+390,Haryana,Intellectual Disability,Maintenance Allowance to MR with 45 percentage,Special Benefit,Allowances
+391,Haryana,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+392,Haryana,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+393,Haryana,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+394,Haryana,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+395,Haryana,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+396,Haryana,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+397,Haryana,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+398,Haryana,Hearing Impairment,Early Intervention Centres for Hearing Impaired,Special Benefit,Misc Benefits
+399,Haryana,Blindness,Assistance to persons marrying Visually Impaired,40% Disability,Financial Assistance
+400,Gujarat,Hearing Impairment,Assistance to marrying Speech and hearing impaired,40% Disability,Financial Assistance
+401,Gujarat,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+402,Gujarat,Blindness,Cash Prizes to top 3 Rank Holders in Public Exams,40% Disability,Education Benefit
+403,Gujarat,Hearing Impairment,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Allowances
+404,Gujarat,Hearing Impairment,Multimedia Training,40% Disability,Trainings
+405,Gujarat,Locomotor Disability,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Allowances
+406,Gujarat,Hearing Impairment,Assistance to marrying Speech and hearing impaired,40% Disability,Financial Assistance
+407,Gujarat,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+408,Gujarat,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+409,Gujarat,Cerebral Palsy,Early Intervention Centres for Cerebral Palsy,Special Benefit,Misc Benefits
+410,Gujarat,Leprosy cured,Government Rehabilitation Homes for Leprosy Cured,40% Disability,Misc Benefits
+411,Gujarat,Autism Spectrum Disorder,Early Intervention Center for children with Autism,Special Benefit,Misc Benefits
+412,Gujarat,Blindness,Assistance to persons marrying Visually Impaired,40% Disability,Financial Assistance
+413,Gujarat,Mental Illness,Rescue Scheme,40% Disability,Misc Benefits
+414,Gujarat,Blindness,Readers Allowance to Students from Ninth to PG,40% Disability,Education Benefit
+415,Gujarat,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+416,Gujarat,Mental Illness,Home for Mentally Ill Persons,40% Disability,Misc Benefits
+417,Gujarat,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+418,Gujarat,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+419,Gujarat,Locomotor Disability,Age Relaxation for Motorized Tricycle ADIP Scheme,40% Disability,Misc Benefits
+420,Chhattisgarh,Intellectual Disability,Niramaya,40% Disability,Financial Assistance
+421,Chhattisgarh,Blindness,Nishashkt Vivah,60% Disability,Allowances
+422,Chhattisgarh,Locomotor Disability,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Subsidy
+423,Chhattisgarh,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+424,Chhattisgarh,Muscular Dystrophy,Maintenance Allowance to Muscular Dystrophy people,40% Disability,Allowances
+425,Chhattisgarh,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+426,Chhattisgarh,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+427,Chhattisgarh,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+428,Chhattisgarh,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+429,Chhattisgarh,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+430,Chhattisgarh,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+431,Chhattisgarh,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+432,Chhattisgarh,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+433,Chhattisgarh,Intellectual Disability,Three Day Care centres in Theni for MR Children,40% Disability,Misc Benefits
+434,Chhattisgarh,Intellectual Disability,Maintenance Allowance to MR with 45 percentage,Special Benefit,Allowances
+435,Chhattisgarh,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+436,Chhattisgarh,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
+437,Chhattisgarh,Intellectual Disability,Homes for the MR above the age of Fourteen,40% Disability,Misc Benefits
+438,Chhattisgarh,Muscular Dystrophy,Maintenance Allowance to Muscular Dystrophy people,40% Disability,Allowances
+439,Chhattisgarh,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+440,Bihar,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+441,Bihar,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+442,Bihar,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+443,Bihar,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+444,Bihar,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+445,Bihar,Locomotor Disability,Assistance to persons marrying Locomotor DAP,40% Disability,Financial Assistance
+446,Bihar,Blindness,Cash Incentive to prevent drop outs from school,40% Disability,Education Benefit
+447,Bihar,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
+448,Bihar,Intellectual Disability,Homes for the MR above the age of Fourteen,40% Disability,Misc Benefits
+449,Bihar,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+450,Bihar,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+451,Bihar,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+452,Bihar,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+453,Bihar,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+454,Bihar,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+455,Bihar,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+456,Bihar,Intellectual Disability,Three Day Care centres in Theni for MR Children,40% Disability,Misc Benefits
+457,Bihar,Intellectual Disability,Maintenance Allowance to MR with 45 percentage,Special Benefit,Allowances
+458,Bihar,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+459,Bihar,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+460,Assam,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+461,Assam,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+462,Assam,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+463,Assam,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+464,Assam,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+465,Assam,Hearing Impairment,Early Intervention Centres for Hearing Impaired,Special Benefit,Misc Benefits
+466,Assam,Blindness,Assistance to persons marrying Visually Impaired,40% Disability,Financial Assistance
+467,Assam,Hearing Impairment,Assistance to marrying Speech and hearing impaired,40% Disability,Financial Assistance
+468,Assam,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+469,Assam,Blindness,Cash Prizes to top 3 Rank Holders in Public Exams,40% Disability,Education Benefit
+470,Assam,Hearing Impairment,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Allowances
+471,Assam,Hearing Impairment,Multimedia Training,40% Disability,Trainings
+472,Assam,Locomotor Disability,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Allowances
+473,Assam,Hearing Impairment,Assistance to marrying Speech and hearing impaired,40% Disability,Financial Assistance
+474,Assam,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+475,Assam,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+476,Assam,Cerebral Palsy,Early Intervention Centres for Cerebral Palsy,Special Benefit,Misc Benefits
+477,Assam,Leprosy cured,Government Rehabilitation Homes for Leprosy Cured,40% Disability,Misc Benefits
+478,Assam,Autism Spectrum Disorder,Early Intervention Center for children with Autism,Special Benefit,Misc Benefits
+479,Assam,Blindness,Assistance to persons marrying Visually Impaired,40% Disability,Financial Assistance
+480,Arunachal Pradesh,Mental Illness,Rescue Scheme,40% Disability,Misc Benefits
+481,Arunachal Pradesh,Blindness,Readers Allowance to Students from Ninth to PG,40% Disability,Education Benefit
+482,Arunachal Pradesh,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+483,Arunachal Pradesh,Mental Illness,Home for Mentally Ill Persons,40% Disability,Misc Benefits
+484,Arunachal Pradesh,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+485,Arunachal Pradesh,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+486,Arunachal Pradesh,Blindness,Cash Incentive to prevent drop outs from school,40% Disability,Education Benefit
+487,Arunachal Pradesh,Locomotor Disability,Assistance to persons marrying Locomotor DAP,40% Disability,Financial Assistance
+488,Arunachal Pradesh,Blindness,Training in Book Binding,40% Disability,Trainings
+489,Arunachal Pradesh,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
+490,Arunachal Pradesh,Intellectual Disability,Homes for the MR above the age of Fourteen,40% Disability,Misc Benefits
+491,Arunachal Pradesh,Locomotor Disability,Age Relaxation for Motorized Tricycle ADIP Scheme,40% Disability,Misc Benefits
+492,Arunachal Pradesh,Intellectual Disability,Niramaya,40% Disability,Financial Assistance
+493,Arunachal Pradesh,Blindness,Nishashkt Vivah,60% Disability,Allowances
+494,Arunachal Pradesh,Locomotor Disability,FUEL SUBSIDY TO DIFFERENTLY ABLED PERSONS,40% Disability,Subsidy
+495,Arunachal Pradesh,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+496,Arunachal Pradesh,Muscular Dystrophy,Maintenance Allowance to Muscular Dystrophy people,40% Disability,Allowances
+497,Arunachal Pradesh,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+498,Arunachal Pradesh,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+499,Arunachal Pradesh,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+500,Andha Pradesh,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+501,Andha Pradesh,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+502,Andha Pradesh,Muscular Dystrophy,DAY CARE CENTRE FOR MUSCULAR DYSTROPHY,40% Disability,Misc Benefits
+503,Andha Pradesh,Intellectual Disability,Early Intervention Services for Mentally Retarded,Special Benefit,Misc Benefits
+504,Andha Pradesh,Blindness,Early Intervention Centres for Visually Impaired,Special Benefit,Misc Benefits
+505,Andha Pradesh,Intellectual Disability,Three Day Care centres in Theni for MR Children,40% Disability,Misc Benefits
+506,Andha Pradesh,Intellectual Disability,Maintenance Allowance to MR with 45 percentage,Special Benefit,Allowances
+507,Andha Pradesh,Hearing Impairment,B COM and BCA Courses for HI Students,40% Disability,Education Benefit
+508,Andha Pradesh,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
+509,Andha Pradesh,Intellectual Disability,Homes for the MR above the age of Fourteen,40% Disability,Misc Benefits
+510,Andha Pradesh,Muscular Dystrophy,Maintenance Allowance to Muscular Dystrophy people,40% Disability,Allowances
+511,Andha Pradesh,Blindness,Scribe Assistance to students from 9th to 12th Std,40% Disability,Education Benefit
+512,Andha Pradesh,Intellectual Disability,Homes for the MR girls above the age of Fourteen,40% Disability,Misc Benefits
+513,Andha Pradesh,Hearing Impairment,Early Diagnostic Centers for Hearing Impaired,Special Benefit,Misc Benefits
+514,Andha Pradesh,Hearing Impairment,New Born Screening Program for Hearing Loss Babies,Special Benefit,Misc Benefits
+515,Andha Pradesh,Leprosy cured,Maintenance Allowance to Leprosy persons,40% Disability,Allowances
+516,Andha Pradesh,Hearing Impairment,Training in Fitter trade for Hearing Impaired,40% Disability,Trainings
+517,Andha Pradesh,Locomotor Disability,Assistance to persons marrying Locomotor DAP,40% Disability,Financial Assistance
+518,Andha Pradesh,Blindness,Cash Incentive to prevent drop outs from school,40% Disability,Education Benefit
+519,Andha Pradesh,Blindness,Providing DVD Players to facilitate education,40% Disability,Education Benefit
