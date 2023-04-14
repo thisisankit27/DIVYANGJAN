@@ -14,8 +14,16 @@ class SchemeList(models.Model):
         return self.typesOfBenefit
 
 
-class Counts(models.Model):
-    user = models.TextField(default=None)
+class VisitCounts(models.Model):
+    user_ip = models.TextField(default=None)
+    
+    def __str__(self):
+        return self.user
+
+class FilterCounts(models.Model):
+    user_ip = models.TextField(default=None)
+    username = models.CharField(max_length=150, default=None)
+    userage = models.CharField(max_length=10, default=None)
     
     def __str__(self):
         return self.user
