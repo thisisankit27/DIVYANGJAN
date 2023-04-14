@@ -15,4 +15,7 @@ class SchemeList(models.Model):
 
 
 class Counts(models.Model):
-    pageVisit = models.IntegerField(default=0)
+    user = models.TextField(default=None)
+    
+    def __str__(self):
+        return self.user

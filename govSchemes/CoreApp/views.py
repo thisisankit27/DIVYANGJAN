@@ -1,12 +1,31 @@
 from django.shortcuts import render, redirect
+from .models import SchemeList, Counts
 import random
-from .models import SchemeList
 
 # Create your views here.
 
 
 def index(request):
-    return render(request, 'index.html')
+    
+    #[Start] GET IP-Address
+    def get_ip(request):
+        address = request.META.get('HTTP_X_FORWARDED_FOR')
+        if address:
+            ip = address.split(',')[-1].strip()
+        else:
+            ip = request.META.get('REMOTE_ADDR')
+        return ip
+    
+    ip = get_ip(request)
+    user_ip = Counts(user = ip)
+    user_ip.save()
+    result = Counts.objects.all().count()
+    #[END] GET IP-Address
+    
+    dataDB = {
+        'visit_count': result,
+    }
+    return render(request, 'index.html', dataDB)
 
 
 def filterScheme(request):
